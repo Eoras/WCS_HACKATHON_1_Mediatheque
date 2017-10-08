@@ -51,7 +51,7 @@ include 'nav.php';
                 <div class="col-md-3">
                     <div class="thumbnail">
                         <?php if (!empty($value->cover->cloudinary_id)) : ?>
-                            <img class="img-responsive" src="https://images.igdb.com/igdb/image/upload/t_thumb/<?= $value->cover->cloudinary_id ?>.jpg" alt="<?= $value->name ?>" />
+                            <img class="img-responsive" src="https://images.igdb.com/igdb/image/upload/t_cover_big/<?= $value->cover->cloudinary_id ?>.jpg" alt="<?= $value->name ?>" />
                             <input class="hidden" name="url_photo" id="url_photo" value="https://images.igdb.com/igdb/image/upload/t_cover_big/<?= $value->cover->cloudinary_id ?>.jpg"/>
                         <?php else : ?>
                             <img class="img-responsive" src="http://via.placeholder.com/90x90" alt="Placeholder" />

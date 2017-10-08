@@ -1,4 +1,0 @@
-Application name	WildHackaton
-API key	9771dc16fad7fc3dcd248d82e2182226
-Shared secret	635749305723129f492f5be80f2f6381
-Registered to	Eoras45

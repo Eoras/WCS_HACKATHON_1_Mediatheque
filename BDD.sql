@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.7.19, for Linux (x86_64)
 --
--- Host: localhost    Database: myfiles
+-- Host: localhost    Database: 171005_HACKATHON_1_Mediatheque
 -- ------------------------------------------------------	
 -- Server version	5.7.19-0ubuntu0.16.04.1
 
@@ -19,8 +19,8 @@
 -- Table structure for table `videogame`
 --
 
-CREATE DATABASE myfiles;
-USE myfiles;
+CREATE DATABASE 171005_HACKATHON_1_Mediatheque;
+USE 171005_HACKATHON_1_Mediatheque;
 
 DROP TABLE IF EXISTS `videogame`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
