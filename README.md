@@ -1,20 +1,10 @@
-# DOSSIER DE BASE POUR NOUVEAU PROJET
+# Ma Médiathèque personnelle
+- **HACKATHON** - *Médiathèque*
+- *0000_Hackathon/171005_HACKATHON_1_Mediathèque*
+----
 
-## ARBORESCENCE:
-	- asset
-		- css
-		    Ajout de style.css pour le css perso
-		- fonts
-		    Ajout de Font Awesome 4.7.0
-		- js
-		    Ajout de JQquery 3.2.1 en local
-		    Ajout de bootstrap.js en local
-	- public
-		- header.php
-		    Ouverture du div container
-		- index.php
-		- footer.php
-		    Fermeture du div container
-	- src
-		- functions.php
-		    Qui contiendra toute les fonctions de notre projet
+Hackathon en groupe, avec Pierre LAMBERT, Vincent PLASSON et Dorian SEBAN. Début du Hackathon: Jeudi 05-10 14:00, fin Vendredi 06-10 12:00.
+
+Difficultées : Connexion aux API afin d'extraire les données!
+
+> [WildCodeSchool](https://wildcodeschool.fr/)
